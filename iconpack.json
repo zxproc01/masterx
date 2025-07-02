@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Dark outline",
+    "asset_number": "001",
+    "url": "https://drive.google.com/uc?export=download&id=1bMarv3t9_2X8LKRoZ2XePE6yknHEfhpW",
+    "image1": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Dark_outline/1.png.enc",
+    "image2": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Dark_outline/2.png.enc"
+  },
+  {
+    "name": "Dark outline 2",
+    "asset_number": "002",
+    "url": "https://drive.google.com/uc?export=download&id=1HwDHRdLFx_42VF6jQ9N04-AC0dL9gg1b",
+    "image1": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Dark_outline_2/1.png.enc",
+    "image2": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Dark_outline_2/2.png.enc"
+  },
+  {
+    "name": "Ghost",
+    "asset_number": "003",
+    "url": "https://drive.google.com/uc?export=download&id=1haRvp8ftXOcVUF3whgKiUGHlsW1msBSj",
+    "image1": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Ghost/1.png.enc",
+    "image2": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Ghost/2.png.enc"
+  },
+  {
+    "name": "Kintsugi",
+    "asset_number": "004",
+    "url": "https://drive.google.com/uc?export=download&id=14cPR8037SZuIL7GDohgYwoakMiz87k2x",
+    "image1": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Kintsugi/Preview_2.png.enc",
+    "image2": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Kintsugi/Preview_1.png.enc"
+  },
+  {
+    "name": "Monochrome",
+    "asset_number": "005",
+    "url": "https://drive.google.com/uc?export=download&id=1XPFMuirZWSzdzKXWD6_9ZL2TgnvRYX3o",
+    "image1": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Monochrome/1.png.enc",
+    "image2": "https://raw.githubusercontent.com/zxproc01/ninitproc13/master/iconpack/Monochrome/2.png.enc"
+  }
+]
