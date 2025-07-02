@@ -1,0 +1,40 @@
+[
+    {
+        "number": "001",
+        "name": "setup1",
+        "author": "Ineffable",
+        "url": "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup1/configs.iconify.enc",
+        "images": [
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup1/preview1.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup1/preview2.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup1/preview3.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup1/preview4.png.enc"
+        ]
+    },
+    {
+        "number": "002",
+        "name": "setup2",
+        "author": "Ineffable",
+        "url": "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup2/setup2.iconify.enc",
+        "images": [
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup2/1.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup2/2.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup2/3.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup2/4.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup2/5.png.enc"
+        ]
+    },
+    {
+        "number": "003",
+        "name": "setup3",
+        "author": "Ineffable",
+        "url": "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup3/setup3.iconify.enc",
+        "images": [
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup3/1.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup3/2.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup3/3.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup3/4.png.enc",
+            "https://raw.githubusercontent.com/zxproc01/ninitproc13/refs/heads/master/iconify/setup3/5.png.enc"
+        ]
+    }
+]
