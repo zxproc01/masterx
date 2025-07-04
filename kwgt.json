@@ -2,6 +2,16 @@
     {
         "category": "setup",
         "items": [
+             {
+                "name": "setup1.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/setup/setup1.kwgt.enc"
+            },
+            {
+                "name": "setup2.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/setup/setup2.kwgt.enc"
+            },
             {
                 "name": "Setup style (11).kwgt",
                 "author": "Ineffable",
@@ -36,6 +46,15 @@
                 "name": "Setup style (5).kwgt",
                 "author": "Ineffable",
                 "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/setup/Setup%20style%20%285%29.kwgt.enc"
+            },   {
+                "name": "Premium setup (3).kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/widgets/Premium%20setup%20%283%29.kwgt.enc"
+            },
+               {
+                "name": "Premium setup (3).kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/widgets/Premium%20setup%20%283%29.kwgt.enc"
             },
             {
                 "name": "Setup style (3).kwgt",
@@ -56,22 +75,138 @@
                 "name": "Setup style (6).kwgt",
                 "author": "Ineffable",
                 "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/setup/Setup%20style%20%286%29.kwgt.enc"
+            },
+             {
+                "name": "Premium setup (4).kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/widgets/Premium%20setup%20%284%29.kwgt.enc"
             }
         ]
     },
     {
         "category": "widgets",
         "items": [
+             {
+                "name": "Media_player_2.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Media_player_2.kwgt.enc"
+            },
+            {
+                "name": "Clock_4.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_4.kwgt.enc"
+            },
+            {
+                "name": "wheather_.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/wheather_.kwgt.enc"
+            },
+            {
+                "name": "Clock_10.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_10.kwgt.enc"
+            },
+            {
+                "name": "dock.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/dock.kwgt.enc"
+            },
+            {
+                "name": "Clock_5.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_5.kwgt.enc"
+            },
+            {
+                "name": "Media_player_u.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Media_player_u.kwgt.enc"
+            },
+            {
+                "name": "stats_.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/stats_.kwgt.enc"
+            },
+            {
+                "name": "search_bar.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/search_bar.kwgt.enc"
+            },
+            {
+                "name": "Clock_2.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_2.kwgt.enc"
+            },
+            {
+                "name": "Clock_3.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_3.kwgt.enc"
+            },
+            {
+                "name": "Clock_1.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_1.kwgt.enc"
+            },
+            {
+                "name": "Clock_9.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_9.kwgt.enc"
+            },
+            {
+                "name": "dock_2.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/dock_2.kwgt.enc"
+            },
+            {
+                "name": "Clock_6.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_6.kwgt.enc"
+            },
+            {
+                "name": "Media_player_3.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Media_player_3.kwgt.enc"
+            },
+            {
+                "name": "Media_player.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Media_player.kwgt.enc"
+            },
+            {
+                "name": "Clock_11.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_11.kwgt.enc"
+            },
+            {
+                "name": "profile.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/profile.kwgt.enc"
+            },
+            {
+                "name": "Clock_7.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_7.kwgt.enc"
+            },
+            {
+                "name": "media_player_.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/media_player_.kwgt.enc"
+            },
+            {
+                "name": "Clock_8.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_8.kwgt.enc"
+            },
+            {
+                "name": "Clock_12.kwgt",
+                "author": "Ineffable",
+                "url": "https://raw.githubusercontent.com/zxproc01/7777/refs/heads/main/kwgt/widget%20/Clock_12.kwgt.enc"
+            },
             {
                 "name": "Player style (12).kwgt",
                 "author": "Ineffable",
                 "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/widgets/Player%20style%20%2812%29.kwgt.enc"
             },
-            {
-                "name": "Premium setup (4).kwgt",
-                "author": "Ineffable",
-                "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/widgets/Premium%20setup%20%284%29.kwgt.enc"
-            },
+           
             {
                 "name": "Brightness_dark_.kwgt",
                 "author": "Ineffable",
@@ -197,11 +332,7 @@
                 "author": "Ineffable",
                 "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/widgets/Profile%20Style%20%282%29.kwgt.enc"
             },
-            {
-                "name": "Premium setup (3).kwgt",
-                "author": "Ineffable",
-                "url": "https://raw.githubusercontent.com/zxproc01/ninitproc12/refs/heads/master/proc1/widgets/Premium%20setup%20%283%29.kwgt.enc"
-            },
+         
             {
                 "name": "Player style (3).kwgt",
                 "author": "Ineffable",
