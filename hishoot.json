@@ -1,14 +1,114 @@
 [
   {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/20/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/20/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/20/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/20/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/22/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/22/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/22/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/22/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/10/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/10/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/10/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/10/preview.png"
+  },
+  {
     "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/3/template.cfg",
     "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/3/frame.png",
-    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/3/glare.png",
-    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/3/preview.png"
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/3/glare.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/16/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/16/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/16/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/16/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/21/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/21/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/21/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/21/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/38/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/38/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/38/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/38/preview.png"
   },
   {
     "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/1/template.cfg",
     "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/1/frame.png",
-    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/1/glare.png"
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/1/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/1/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/19/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/19/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/19/glare.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/39/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/39/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/39/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/39/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/14/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/14/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/14/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/14/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/40/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/40/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/40/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/40/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/5/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/5/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/5/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/5/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/24/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/24/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/24/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/24/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/26/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/26/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/26/glare.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/7/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/7/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/7/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/7/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/23/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/23/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/23/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/23/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/37/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/37/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/37/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/37/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/12/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/12/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/12/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/12/preview.png"
   },
   {
     "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/2/template.cfg",
@@ -17,9 +117,131 @@
     "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/2/preview.png"
   },
   {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/6/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/6/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/6/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/6/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/28/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/28/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/28/glare.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/33/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/33/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/33/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/33/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/25/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/25/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/25/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/25/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/30/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/30/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/30/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/30/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/42/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/42/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/42/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/42/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/41/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/41/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/41/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/41/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/18/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/18/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/18/glare.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/35/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/35/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/35/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/35/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/17/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/17/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/17/glare.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/13/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/13/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/13/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/13/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/11/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/11/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/11/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/11/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/34/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/34/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/34/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/34/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/15/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/15/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/15/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/15/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/29/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/29/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/29/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/29/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/31/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/31/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/31/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/31/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/27/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/27/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/27/glare.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/32/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/32/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/32/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/32/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/36/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/36/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/36/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/36/preview.png"
+  },
+  {
     "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/4/template.cfg",
     "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/4/frame.png",
     "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/4/glare.png",
     "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/4/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/9/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/9/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/9/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/9/preview.png"
+  },
+  {
+    "config_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/8/template.cfg",
+    "frame_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/8/frame.png",
+    "glare_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/8/glare.png",
+    "preview_url": "https://raw.githubusercontent.com/zxproc01/hishoots/refs/heads/main/8/preview.png"
   }
 ]
